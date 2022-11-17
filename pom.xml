@@ -1,4 +1,8 @@
 <project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupID>Patata</groupId>
+  <artifactId>Prueba_Maven</artifactId>
+  <version>1</version>
   <properties>
     <sonar.organization>zuleimamuji</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
